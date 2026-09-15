@@ -66,7 +66,7 @@ Estou em constante evolução técnica e sempre pronto para encarar novos desafi
 
 ---
 
-<h2 align="center">🚀 O que estou fazendo no momento</h2>
+<h2 align="center">🤔 O que estou fazendo no momento</h2>
 
 - 📚 Estudando e me aprofundando em: **[Engenharia de software e Spring Boot]**
 - 💻 Trabalhando no projeto: **[Tutoria - Acompanhamento de sessões PBL]**
